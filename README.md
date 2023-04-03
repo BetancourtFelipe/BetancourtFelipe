@@ -1,10 +1,18 @@
-                                                         HOLAA 👋 It's me. Felipe
-
+                                                        
+                                                         
+                                                          HOLAA 👋 It's me. Felipe
+                                                         
+                                                         
                                                          
 After a long career in gastronomy, I discovered my passion for programming through my best friends. 
 I completed the UPLEVELED bootcamp for Fullstack web development and have since grown to love the latest technologies. 
 
-Learning and acquiring knowledge is one of the greatest gifts, and I both enjoy giving and receiving gifts.
+Learning and acquiring knowledge is one of the greatest gifts.
+
+
+
+
+
 
 
 - 🔭 I’m currently working on ... 
