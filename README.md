@@ -17,7 +17,9 @@ Learning and acquiring knowledge is one of the greatest gifts.
 
 - 🔭 I’m currently working on ... 
 
-DONDE - My final UPLEVELED project 
+DONDE - My final UPLEVELED project, 
+
+SKATE |&| Buy - Angular E-Commerce
 
 - 💬 Ask me about ...
 
